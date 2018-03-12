@@ -10,6 +10,8 @@ void myswap( Type &a, Type &b )
 	b = temp;
 }
 
+// コメントの追加
+
 int main()
 {
 	int    a = 1,   b = 2;
