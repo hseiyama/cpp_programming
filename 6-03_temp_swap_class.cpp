@@ -18,6 +18,7 @@ int main()
 	cout << "s1=" << s1 << ",s2=" << s2 << endl;
 	myswap( s1, s2 );
 	cout << "s1=" << s1 << ",s2=" << s2 << endl;
+	cout << "conflict line" << endl;
 
 	return 0;
 }
