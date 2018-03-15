@@ -18,7 +18,7 @@ int main()
 	cout << "s1=" << s1 << ",s2=" << s2 << endl;
 	myswap( s1, s2 );
 	cout << "s1=" << s1 << ",s2=" << s2 << endl;
-	cout << "add comment" << endl;
+	cout << "resolve conflict" << endl;
 
 	return 0;
 }
