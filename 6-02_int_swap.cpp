@@ -28,6 +28,7 @@ int main()
 	int    a = 1,   b = 2;
 	double x = 1.0, y = 2.0;
 
+	cout << "start program." << endl;
 	cout << "a=" << a << ",b=" << b << endl;
 	myswap( a, b );
 	cout << "a=" << a << ",b=" << b << endl;

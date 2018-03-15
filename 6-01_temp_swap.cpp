@@ -22,6 +22,7 @@ int main()
 	cout << "x=" << x << ",y=" << y << endl;
 	myswap( x, y );
 	cout << "x=" << x << ",y=" << y << endl;
+	cout << "end process" << endl;
 
 	return 0;
 }
