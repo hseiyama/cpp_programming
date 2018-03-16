@@ -15,6 +15,7 @@ int main()
 	ofs << "おはよう" << endl;
 	ofs << "こんにちは" << endl;
 	ofs << "こんばんは" << endl;
+	ofs << "こにゃにゃちは" << endl;
 
 	ofs.close();
 
